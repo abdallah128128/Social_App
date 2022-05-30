@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application. It helps you to communicate with your friends, see their posts, like them and comment on them.. and you can communicate with them via chat.
 
 ## Getting Started
 
